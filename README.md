@@ -14,3 +14,6 @@ node compile.js
 
 # To run tests
 npm run test
+
+# Install truffle for deployment
+npm install --save truffle-hdwallet-provider
