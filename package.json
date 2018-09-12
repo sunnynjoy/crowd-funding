@@ -1,0 +1,26 @@
+{
+  "name": "crowd-funding",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sunnynjoy/crowd-funding.git"
+  },
+  "author": "Sunny Ghosh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sunnynjoy/crowd-funding/issues"
+  },
+  "homepage": "https://github.com/sunnynjoy/crowd-funding#readme",
+  "dependencies": {
+    "fs-extra": "^7.0.0",
+    "ganache-cli": "^6.1.8",
+    "mocha": "^5.2.0",
+    "solc": "^0.4.24",
+    "web3": "^1.0.0-beta.36"
+  }
+}
